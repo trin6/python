@@ -23,6 +23,9 @@ fi
 python3 -m venv $PWD/venv
 
 source "$PWD/venv/bin/activate"
+
+pip install --upgrade pip wheel
+
 pip install -r requirements.txt
 django-admin startproject $project_name
 
