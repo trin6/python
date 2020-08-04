@@ -1,3 +1,4 @@
+setuptools
 django
 djangorestframework
 graphene-django>=2.0
