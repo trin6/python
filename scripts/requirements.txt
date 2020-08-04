@@ -1,0 +1,13 @@
+django
+djangorestframework
+graphene-django>=2.0
+django-money
+django-import-export
+celery
+django-celery-results
+django-celery-beat
+eventlet
+pytest
+pytest-django
+slack-webhook
+seqlog
